@@ -88,6 +88,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MAVROS](https://github.com/mavlink/mavros) – ROS bridge for MAVLink.
 - [QGroundControl](https://github.com/mavlink/qgroundcontrol) – Mission planning, control, telemetry.
 - [Mission Planner (ArduPilot)](https://github.com/ArduPilot/MissionPlanner)
+- [uas-cot](https://github.com/Mattbusel/uas-cot) – Converts decoded drone Remote ID into TAK Cursor-on-Target (CoT) messages and streams them to a TAK server over TLS.
 
 ## Swarm Intelligence & Multi-Agent Systems
 
